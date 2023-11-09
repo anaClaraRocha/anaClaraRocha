@@ -1,8 +1,7 @@
 
-#🌟 Olá!! Eu sou Ana Rocha🌟
+<h1>#🌟 Olá!! Eu sou Ana Clara Rocha🌟</h1>
 
-Programadora do 3º ano de técnico em Desenvolvimento de Sistemas na ETEC de Guaianazes, São Paulo 💻💻
-
+Desenvolvedora Full Stack do 3º ano de Técnico em Desenvolvimento de Sistemas na ETEC de Guaianazes, São Paulo 💻💻
 
 <div>
   <a href="https://github.com/anaClaraRocha">
