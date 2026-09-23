@@ -1,96 +1,116 @@
-<h1 align="center">🌟 Olá! Eu sou Ana Clara Rocha 🌟</h1>
-
-<h3 align="center">
-  💻 Estudante de Ciência da Computação | Desenvolvedora Full Stack em formação
-</h3>
-
 <div align="center">
 
-![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)
+<!-- WAVE HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1113,50:0E8F83,100:20D9C2&height=220&section=header&text=Ana%20Clara%20Rocha&fontSize=42&fontColor=F1F5F5&fontAlignY=38&desc=Estudante%20de%20Ciência%20da%20Computação%20%7C%20Desenvolvedora%20Full%20Stack%20em%20formação&descAlignY=60&descSize=16&descColor=C8FFFA"/>
+
+# 👩‍💻 Olá! Eu sou Ana Clara Rocha
+
+### `Estudante de Ciência da Computação | Desenvolvedora Full Stack em formação`
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=20D9C2&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+soluções+digitais;Desenvolvimento+Web+%7C+Backend+%7C+Banco+de+Dados;Sempre+aprendendo+e+evoluindo+na+tecnologia" alt="Typing SVG" />
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
+## 🌊 Sobre mim
 
-Olá! Eu sou **Ana Clara Rocha**, estudante de **Ciência da Computação pela Universidade Cruzeiro do Sul**, atualmente no **4º período de 8**.
+Sou estudante de **Ciência da Computação**, atualmente no **4º período de 8**, e estou construindo minha trajetória na área de desenvolvimento de software.
 
-Minha trajetória na área de tecnologia começou com o **Técnico em Desenvolvimento de Sistemas pela ETEC de Guaianazes**, em São Paulo, onde tive meu primeiro contato com desenvolvimento de software, programação e banco de dados.
+Tenho formação técnica em **Desenvolvimento de Sistemas pela ETEC de Guaianazes**, onde tive contato com desenvolvimento web, programação, banco de dados, análise e projeto de sistemas e engenharia de software.
 
-Atualmente, venho aprofundando meus conhecimentos através da graduação e de estudos práticos, buscando evoluir tanto no desenvolvimento **Front-end** quanto **Back-end**.
+Atualmente, busco evoluir principalmente em **desenvolvimento Full Stack**, unindo conhecimentos de frontend, backend, banco de dados e desenvolvimento de aplicações web.
 
-💻 Gosto de aprender novas tecnologias, entender como os sistemas funcionam e transformar conhecimentos em soluções.
-
-🚀 Estou sempre buscando evoluir como desenvolvedora e ampliar meus conhecimentos na área de tecnologia.
+```text
+🎓 Ciência da Computação
+💻 Desenvolvimento Full Stack em formação
+🌐 Desenvolvimento Web
+🗄️ Banco de Dados
+⚙️ Backend
+📚 Aprendizado contínuo
+```
 
 ---
 
 ## 🎓 Formação
 
-🎓 **Ciência da Computação**
-**Universidade Cruzeiro do Sul**
-📚 4º período de 8
+### 🖥️ Ciência da Computação
 
-💻 **Técnico em Desenvolvimento de Sistemas**
+**Universidade Cruzeiro do Sul**
+
+`4º período de 8`
+
+Atualmente aprofundando conhecimentos em:
+
+* Engenharia de Software
+* Análise e Projeto de Sistemas
+* Programação
+* Banco de Dados
+* Estruturas de Dados
+* Programação Orientada a Objetos
+* Desenvolvimento de Sistemas
+
+### 💻 Técnico em Desenvolvimento de Sistemas
+
 **ETEC de Guaianazes — São Paulo**
+
+Formação técnica voltada para desenvolvimento de sistemas, programação, banco de dados, desenvolvimento web e fundamentos de engenharia de software.
 
 ---
 
 ## 🧠 Conhecimentos
 
-### 🌐 Desenvolvimento Web
+<div align="center">
 
-Tenho conhecimentos em desenvolvimento de aplicações web utilizando:
+| Área               | Conhecimentos                                          |
+| ------------------ | ------------------------------------------------------ |
+| 🌐 Frontend        | HTML5 • CSS3 • JavaScript                              |
+| ⚙️ Backend         | PHP                                           |
+| 🗄️ Banco de Dados | MySQL • SQL                                            |
+| 💻 Programação     | Java • Python • JavaScript                             |
+| 📐 Engenharia      | Requisitos • Análise de Sistemas • Projeto de Sistemas |
+| 🔧 Ferramentas     | Git • GitHub • VS Code                                 |
 
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-
-Tenho interesse em desenvolvimento **Front-end e Back-end**, buscando compreender tanto a construção das interfaces quanto a lógica e funcionamento das aplicações.
-
-### 🗄️ Banco de Dados
-
-Tenho conhecimentos em:
-
-* MySQL
-* Modelagem de dados
-* Consultas SQL
-* CRUD
-* Relacionamento entre tabelas
-
-### 💻 Programação
-
-Também possuo conhecimentos e contato acadêmico com:
-
-* Python
-* Java
-* Lógica de programação
-* Programação orientada a objetos
-* Estruturas de dados
-* Engenharia de software
-* Análise e projeto de sistemas
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img align="center" alt="Ana-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+### Frontend
 
-<img align="center" alt="Ana-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align="center" alt="Ana-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br><br>
 
-<img align="center" alt="Ana-PHP" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+### Backend & Banco de Dados
 
-<img align="center" alt="Ana-MySQL" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="center" alt="Ana-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<br><br>
 
-<img align="center" alt="Ana-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+### Ferramentas
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+&nbsp;
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 </div>
 
@@ -98,38 +118,51 @@ Também possuo conhecimentos e contato acadêmico com:
 
 ## 🌱 Atualmente
 
-📚 Cursando o **4º período de Ciência da Computação**
+Estou focada em:
 
-💻 Aprofundando meus conhecimentos em desenvolvimento Full Stack
-
-🧠 Estudando conceitos de programação, banco de dados e engenharia de software
-
-🚀 Buscando constantemente aprender novas tecnologias e melhorar minhas habilidades
+* 🚀 Evoluir minhas habilidades em desenvolvimento Full Stack
+* 🧠 Aprofundar meus conhecimentos em programação
+* 🗄️ Trabalhar cada vez melhor com banco de dados
+* ⚙️ Desenvolver aplicações web mais completas
+* 📚 Aprender novas tecnologias e boas práticas
+* 💡 Transformar conhecimentos acadêmicos em soluções práticas
 
 ---
 
-## 📫 Redes Sociais
+## 📫 Vamos nos conectar?
 
 <div align="center">
 
-<a href="https://instagram.com/_ana.rocha_" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 <a href="mailto:rochaanaclara602@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-0B1113?style=for-the-badge&logo=gmail&logoColor=20D9C2"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ana-clara-rochaa" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/ana-clara-rochaa">
+<img src="https://img.shields.io/badge/LinkedIn-0B1113?style=for-the-badge&logo=linkedin&logoColor=20D9C2"/>
+</a>
+
+<a href="https://instagram.com/_ana.rocha_">
+<img src="https://img.shields.io/badge/Instagram-0B1113?style=for-the-badge&logo=instagram&logoColor=20D9C2"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-✨ **Sempre aprendendo. Sempre evoluindo.** ✨
+### 💚 Obrigada por visitar meu perfil!
+
+`Code • Learn • Build • Evolve`
+
+</div>
+
+<!-- WAVE FOOTER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:20D9C2,50:0E8F83,100:0B1113&height=120&section=footer"/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anaClaraRocha&color=20D9C2&style=flat-square&label=VISITAS+NO+PERFIL"/>
 
 </div>
