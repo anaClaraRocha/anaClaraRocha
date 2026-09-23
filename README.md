@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Olá! Eu sou Ana Clara Rocha 🌟</h1>
 
 <h3 align="center">
-  💻 Estudante de Ciência da Computação | Desenvolvedora Full Stack
+  💻 Estudante de Ciência da Computação | Desenvolvedora Full Stack em formação
 </h3>
 
 <div align="center">
